@@ -2,7 +2,6 @@ require 'open-uri'
 require 'net/http'
 require 'rspec/expectations'
 require 'json'
-
 require 'capybara/cucumber'
 
 ### Allows you to use the page. commands
